@@ -7,4 +7,4 @@ The code make an expression tree which take care or precedences and then it eval
 Run the code and just enter the expression.<br>
 Note: the calculator is limited to +,-,/,*.
 
-Eg : 5+3*2/5-(5+2)*(5+(7-3)+6/(7-2))-1
+Eg : 5+3*2/5-(5+2)/(5+(7-3)+6/(7-2))-1
